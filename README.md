@@ -1,136 +1,120 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=AstridVides&label=Profile%20views&color=0e75b6&style=flat" alt="AstridVides" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p> -->
+
+## Hey!, I'm Astrid Vides <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+
+### Glad to see you here! :octocat:
+
+I am a passionate **Backend Developer** who loves to code and solve programming challenges. I find joy in conceptualizing web solutions and coming up with new ideas using technology.
+
+I currently reside in San Salvador, El Salvador. I am pursuing my Bachelor's degree in Computer Engineering at the prestigious Universidad Centroamericana José Simeón Cañas (UCA), where I am currently in my 4th year.
+
+Beyond my learning, I find great satisfaction in sharing my knowledge and skills with others in the tech community. When I have some free time, I enjoy reading technical articles and playing video games.
+
+My goals are to continuously improve my skills, build impactful projects, and ultimately apply my abilities to create value for organizations and people through software. I am excited by the prospect of contributing my passion and creativity to your amazing team.
+
+---
+
+### :blush: Talking about Personal Stuffs 
+
+<img align="right" height="250" width="400" alt="Astrid Vides" src="https://raw.githubusercontent.com/mehediislamripon/mehediislamripon/main/img/MehediIslamRipon.gif" />
+
+-  💻 &nbsp; I love exploring new tech stacks and building cool stuff
+-  📰 &nbsp; Reading tech blogs whenever possible 
+-  🍕 &nbsp; Travelling, meetups & tech events 
+-  🚀 &nbsp; I'm currently learning Full Stack Web Development 
+-  :computer: &nbsp; Most written code line `console.log("hello world");` 
+-  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AstridVides) 
+&nbsp; &nbsp; &nbsp;
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/astrid-vides-466b99351/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:astridvides10@gmail.com?subject=Hello%20Astrid,%20From%20Github) &nbsp;
+
+---
+
+### :dart: Languages and Tools 
+
+> Tools, languages, and other things that I like to work with 
+
+### 💻 Languages
+[![JavaScript, TypeScript, Python, Java, C++, C, C#, Kotlin](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,kotlin)](https://github.com/Elias8420)
+
+### 🎨 Frontend
+[![HTML, CSS, React,TailwindCSS,Vite](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui,vite,sass,babel)](https://github.com/Elias8420)
+
+### ⚙️ Backend & Frameworks
+[![Node.js, Express, NestJS](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django)](https://github.com/Elias8420)
+
+### 🗄️ Databases
+[![MongoDB, PostgreSQL, MySQL, Oracle](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](#)
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+### 📊 Data analysis & BI
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+
+### 📝 Microsoft
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+
+
+### ☁️ Cloud & Service
+[![AWS, GCP, Firebase, Vercel](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel)](https://github.com/Elias8420)
+
+### 📦 Package Manager
+[![npm, yarn](https://skillicons.dev/icons?i=npm,yarn)](https://github.com/Elias8420)
+
+### 🧪 Testing
+[![Jest](https://skillicons.dev/icons?i=jest)](https://github.com/Elias8420)
+
+### 🔧 Tools & DevOps
+[![Git, GitHub, Docker, Linux, Powershell, Nginx](https://skillicons.dev/icons?i=git,github,docker,linux,powershell,nginx)](https://github.com/Elias8420)
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+
+### 🎯 IDEs
+[![VSCode, IntelliJ, Android Studio](https://skillicons.dev/icons?i=vscode,idea,androidstudio)](https://github.com/Elias8420)
+
+### 🎨 Design & Testing APIs
+[![Figma, Photoshop, Postman, Markdown](https://skillicons.dev/icons?i=figma,ps,postman,md)](#)
+<img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" /> &nbsp;
+---
+
+### ☄️ Github Streaks:
+
+<p align="center">
+    <img alt="AstridVides's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AstridVides&theme=tokyonight&hide_border=true"/>
+</p>
+
+### ⚡ Github Stats:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AstridVides&show_icons=true&hide_border=true&theme=tokyonight" alt="AstridVides's stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AstridVides&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="AstridVides's stats"/>
+</p>
+
 <div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
+
+<!-- <details>
+  <summary> 🎧 I'm Listening Now:</summary>
+	<a href="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&redirect=true">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&cover_image=true&theme=novatorem" alt="AstridVides's Spotify status">
+</a>
+</details> -->
   
-## Hi 👋, I'm Astrid Vides
-
-</div>
-
 ---
 
-### 🔍 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-🎯 **Began the Journey with Software Development in ASP.NET / MVC**
-
-💡 I work on Front-end development and web designing when I am not lazy, and I love working on Data Science and AI/ML
-
-✨ I am currently pursuing a degree in Computer Science
-
-🎓 I worked both at commercial and public org experience in full stack Development
-
-💼 Ask me about Microsoft .NET framework, Full Stack Development, Python
-
-🤖 Interested in Artificial Intelligence, Machine learning, Deep Learning, Data Science, Automation
-
-😄 Lastly like gardening.
-
----
-
-### 🎯 Follow Me on:
-
-<div align="center">
-  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-
-</div>
-
----
-
-### 🛠️ Languages & tools I have placed My Hands On
-
-<div align="center">
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  
-![masterJudah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-### 🏆 Top Contributed Repo
-
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-### 💭 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-### ☕ Support Me
-
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](YOUR_BUYMEACOFFEE_LINK)
-
-</div>
-
----
-
-### 📈 Profile Views
-
-<div align="center">
-  
-![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)
-
-</div>
-
----
-
-<div align="center">
-  
-### 📫 How to reach me:
-**Email:** your.email@example.com
-
-</div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
-
-</div>
+<!-- <p>
+<img alt="AstridVides's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AstridVides&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p> -->
