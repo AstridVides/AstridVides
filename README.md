@@ -1,6 +1,6 @@
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=AstridVides&label=Profile%20views&color=0e75b6&style=flat" alt="AstridVides" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p> -->
 
-
+![Banner](./header-banner.png)
 
 ## Hey!, I'm Astrid Vides <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
