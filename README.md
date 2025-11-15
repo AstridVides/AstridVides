@@ -1,5 +1,7 @@
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=AstridVides&label=Profile%20views&color=0e75b6&style=flat" alt="AstridVides" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p> -->
 
+
+
 ## Hey!, I'm Astrid Vides <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 ### Glad to see you here! :octocat:
@@ -36,13 +38,13 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 > Tools, languages, and other things that I like to work with 
 
 ### 💻 Languages
-[![JavaScript, TypeScript, Python, Java, C++, C, C#, Kotlin](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,kotlin)](https://github.com/Elias8420)
+[![JavaScript, TypeScript, Python, Java, C++, C, C#, Kotlin](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,kotlin)](https://github.com/AstridVides)
 
 ### 🎨 Frontend
-[![HTML, CSS, React,TailwindCSS,Vite](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui,vite,sass,babel)](https://github.com/Elias8420)
+[![HTML, CSS, React,TailwindCSS,Vite](https://skillicons.dev/icons?i=html,css,react,tailwind,vite)](https://github.com/AstridVides)
 
 ### ⚙️ Backend & Frameworks
-[![Node.js, Express, NestJS](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django)](https://github.com/Elias8420)
+[![Node.js, Express, NestJS](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/AstridVides)
 
 ### 🗄️ Databases
 [![MongoDB, PostgreSQL, MySQL, Oracle](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](#)
@@ -56,20 +58,20 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 
 
 ### ☁️ Cloud & Service
-[![AWS, GCP, Firebase, Vercel](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel)](https://github.com/Elias8420)
+[![AWS, GCP, Firebase, Vercel](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel)](https://github.com/AstridVides)
 
 ### 📦 Package Manager
-[![npm, yarn](https://skillicons.dev/icons?i=npm,yarn)](https://github.com/Elias8420)
+[![npm, yarn](https://skillicons.dev/icons?i=npm,yarn)](https://github.com/AstridVides)
 
 ### 🧪 Testing
-[![Jest](https://skillicons.dev/icons?i=jest)](https://github.com/Elias8420)
+[![Jest](https://skillicons.dev/icons?i=jest)](https://github.com/AstridVides)
 
 ### 🔧 Tools & DevOps
-[![Git, GitHub, Docker, Linux, Powershell, Nginx](https://skillicons.dev/icons?i=git,github,docker,linux,powershell,nginx)](https://github.com/Elias8420)
+[![Git, GitHub, Docker, Linux, Powershell, Nginx](https://skillicons.dev/icons?i=git,github,docker,linux,powershell,nginx)](https://github.com/AstridVides)
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 
 ### 🎯 IDEs
-[![VSCode, IntelliJ, Android Studio](https://skillicons.dev/icons?i=vscode,idea,androidstudio)](https://github.com/Elias8420)
+[![VSCode, IntelliJ, Android Studio](https://skillicons.dev/icons?i=vscode,idea,androidstudio)](https://github.com/AstridVides)
 
 ### 🎨 Design & Testing APIs
 [![Figma, Photoshop, Postman, Markdown](https://skillicons.dev/icons?i=figma,ps,postman,md)](#)
