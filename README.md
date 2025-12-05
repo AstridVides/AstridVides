@@ -82,14 +82,14 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 ## ☄️ Github Streaks:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AstridVides-cyber&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AstridVides&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## ⚡ Github Stats:
 
 <div align="center">
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AstridVides-cyber&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AstridVides-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AstridVides&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AstridVides&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 
